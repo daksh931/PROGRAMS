@@ -89,8 +89,28 @@ OUTPUT
 
 
 
+#include<stdio.h>
+
+
+void main()
+{
+
+
+int a,b,c,d,e,f,g,h,p,q,r,s;
+
+scanf("%d%d%d%d%d%d%d%d",&a,&b,&c,&d,&e,&f,&g,&h);
+ p=a*e+b*g;
+ q=a*e+b*h;
+ r=c*e+d*g;
+ s=c*f+d*h;
+
+printf("|%d %d||%d %d|=|%d %d|\n",a,b,c,d,p,q);
+printf("|%d %d||%d %d|=|%d %d|",e,f,g,h,r,s);
+```
+OUTPUT
+```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4MzEyMTM0NSwtNzE3MzAyNzgzLC0yMD
-M4NjM1MzEyXX0=
+eyJoaXN0b3J5IjpbMTA5NTU5MzQ1NywxNjgzMTIxMzQ1LC03MT
+czMDI3ODMsLTIwMzg2MzUzMTJdfQ==
 -->
