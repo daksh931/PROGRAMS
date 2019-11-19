@@ -413,9 +413,9 @@ OUTPUT
  Hello world
  ```
 
-sum of two numbers
+15 SUM OF NUMBERS
 ```
-     // to find sum of two numbers
+    
      #include<stdio.h>
 int main()
 {                                                                                      
@@ -428,13 +428,13 @@ int main()
     return 0;
  }
 ```
-**OUTPUT**:
+OUTPUT
 ```
 Enter two numbers to get sum:45 55
  
 The result is :45 + 55= 100
 ```
- 4:Sum Average Of numbers
+ 16 SUM AVERAGE OF NUMBERS
 ```
 
 #include<stdio.h>
@@ -456,6 +456,6 @@ Enter five numbers:1 2 3 4 5
 The sum is:15
 The average is:3
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4MzA4Njk5OCwtMTM5OTQwMTMyMCw3MT
-c5NDc0XX0=
+eyJoaXN0b3J5IjpbLTE1OTUxODc2MDksLTEzOTk0MDEzMjAsNz
+E3OTQ3NF19
 -->
