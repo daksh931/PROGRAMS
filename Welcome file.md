@@ -193,38 +193,43 @@ Number is even
 9
 Number is odd
 ```
-8 PROGRAM USING SWITCH
+8 TABLE OF NUMBER
 ```
+
 #include<stdio.h>
 
 int main()
 {
-
 int a;
 scanf("%d",&a);
 
 
-char c;
-scanf("%c",&c);
-int d=80;
-
-
-switch (c)
+for(int b=1; b<=10; b++)
 {
-case '+':
-   printf("addition of numbers &d\n",a);
-break;
+int c=a*b;
 
-case'-':
-   printf("subs of numbers ");
-break;
+printf("%d * %d = %d\n",a,b,c);
+}
 
+}
+```
+OUTPUT
+```
+5
+5 * 1 = 5
+5 * 2 = 10
+5 * 3 = 15
+5 * 4 = 20
+5 * 5 = 25
+5 * 6 = 30
+5 * 7 = 35
+5 * 8 = 40
+5 * 9 = 45
+5 * 10 = 50
+```
 
-
-
-defaul
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTM0MjcxNjAsMzI5Mzk1NTY3LDE5Nj
-A5MzEwOTksMTY4MzEyMTM0NSwtNzE3MzAyNzgzLC0yMDM4NjM1
-MzEyXX0=
+eyJoaXN0b3J5IjpbNTU1ODI2ODk3LDMyOTM5NTU2NywxOTYwOT
+MxMDk5LDE2ODMxMjEzNDUsLTcxNzMwMjc4MywtMjAzODYzNTMx
+Ml19
 -->
