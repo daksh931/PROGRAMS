@@ -320,9 +320,53 @@ Enter the number upto which numer times messgae display:6
 
 
 
-12 
+12  2:To fill your information
+```
+  // To fill your information
+#include<stdio.h>
+
+  void info();
+  int main()
+  {
+     info();
+  }
+
+   void info()
+  {  char a[20];
+     int roll,age;
+     long int ph;
+   printf("\nEnter your information:\n");
+   printf("Name = ");
+    scanf("%s",a);
+  printf("\nRoll no=");
+scanf("%d",&roll);
+printf("\nAge = ");
+ scanf("%d",&age);
+ printf("\nPhone no.= ");
+ scanf("%ld",&ph);
+
+printf("\nThe name is %s\nYour roll no is %d\nMy phone number is %ld\n My age is %d\n",a,roll,ph,age);
+
+}
+```
+**OUTPUT:**
+```
+Enter your information:
+Name = Jony
+
+Roll no=100012
+
+Age = 25
+
+Phone no.= 943
+
+The name is Daksh
+Roll no is 1921020
+Phone number is 9463****
+Age is 25
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5NjcyNzQ1OSwtMjg3NjMzNzk4LDU1NT
+eyJoaXN0b3J5IjpbMTM4MDY5NzEwNSwtMjg3NjMzNzk4LDU1NT
 gyNjg5NywzMjkzOTU1NjcsMTk2MDkzMTA5OSwxNjgzMTIxMzQ1
 LC03MTczMDI3ODMsLTIwMzg2MzUzMTJdfQ==
 -->
