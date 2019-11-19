@@ -400,8 +400,20 @@ table of:5
 5 x 12 = 60
 ```
 
-14 
+14 Hello World Program
+```
+#include<stdio.h>
+int main()
+{                     
+ printf("\nHello world\n");
+}
+```
+OUTPUT
+```
+ Hello world
+ ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTk0MDEzMjAsNzE3OTQ3NF19
+eyJoaXN0b3J5IjpbLTQyNjczNzYxMywtMTM5OTQwMTMyMCw3MT
+c5NDc0XX0=
 -->
