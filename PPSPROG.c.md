@@ -400,6 +400,8 @@ table of:5
 5 x 12 = 60
 ```
 
+14 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjA5MDY3MjEsNzE3OTQ3NF19
+eyJoaXN0b3J5IjpbLTEzOTk0MDEzMjAsNzE3OTQ3NF19
 -->
