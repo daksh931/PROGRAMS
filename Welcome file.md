@@ -192,7 +192,9 @@ OUTPUT
 Number is even
 9
 Number is odd
+```
+8
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0NjA2MzYwOSwxOTYwOTMxMDk5LDE2OD
-MxMjEzNDUsLTcxNzMwMjc4MywtMjAzODYzNTMxMl19
+eyJoaXN0b3J5IjpbMzI5Mzk1NTY3LDE5NjA5MzEwOTksMTY4Mz
+EyMTM0NSwtNzE3MzAyNzgzLC0yMDM4NjM1MzEyXX0=
 -->
