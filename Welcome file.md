@@ -294,9 +294,31 @@ Value in centigrade 113
 ```
 
 11 PUTS VALUE
+```
+#include<stdio.h>
+ int main()
+ {
+ int i,a;
+ printf(Enter the number upto which numer times messgae display:");
+ scanf("%d",&a);
+  for(i=1;i<=a;i++)
+puts(" HARD WORK IS KEY TO SUCCESS ");
+return 0;
+}
 
+```
+OUTPUT
+```
+Enter the number upto which numer times messgae display:6
+ HARD WORK IS KEY TO SUCCESS
+ HARD WORK IS KEY TO SUCCESS
+ HARD WORK IS KEY TO SUCCESS
+ HARD WORK IS KEY TO SUCCESS
+ HARD WORK IS KEY TO SUCCESS
+ HARD WORK IS KEY TO SUCCESS
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxNzc5ODM4MSwtMjg3NjMzNzk4LDU1NT
-gyNjg5NywzMjkzOTU1NjcsMTk2MDkzMTA5OSwxNjgzMTIxMzQ1
-LC03MTczMDI3ODMsLTIwMzg2MzUzMTJdfQ==
+eyJoaXN0b3J5IjpbLTE0MjA5NDQyNjIsLTI4NzYzMzc5OCw1NT
+U4MjY4OTcsMzI5Mzk1NTY3LDE5NjA5MzEwOTksMTY4MzEyMTM0
+NSwtNzE3MzAyNzgzLC0yMDM4NjM1MzEyXX0=
 -->
