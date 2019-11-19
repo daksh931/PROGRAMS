@@ -365,6 +365,8 @@ Roll no is 1921020
 Phone number is 9463****
 Age is 25
 ```
+
+13 TABLE RANGE
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzMzYxMjE5XX0=
+eyJoaXN0b3J5IjpbNzE3OTQ3NF19
 -->
