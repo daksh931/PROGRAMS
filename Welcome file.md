@@ -84,7 +84,7 @@ OUTPUT
  |    =    |
  ```
 
-3 MATRIX PROGRAM
+4 MATRIX PROGRAM
 ```
 
 
@@ -111,7 +111,7 @@ OUTPUT
 ```|5 5||5 5|=|50 50|
 |5 5||5 5|=|50 50|
 ```
-4 FACTORIAL PROGRAM
+5 FACTORIAL PROGRAM
 ```#include<stdio.h>
 
 int main()
@@ -227,9 +227,11 @@ OUTPUT
 5 * 9 = 45
 5 * 10 = 50
 ```
+9 ARRAYEVEN
+```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU1ODI2ODk3LDMyOTM5NTU2NywxOTYwOT
-MxMDk5LDE2ODMxMjEzNDUsLTcxNzMwMjc4MywtMjAzODYzNTMx
-Ml19
+eyJoaXN0b3J5IjpbLTg0NTY5ODg0OSw1NTU4MjY4OTcsMzI5Mz
+k1NTY3LDE5NjA5MzEwOTksMTY4MzEyMTM0NSwtNzE3MzAyNzgz
+LC0yMDM4NjM1MzEyXX0=
 -->
