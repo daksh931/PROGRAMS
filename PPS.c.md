@@ -55,6 +55,29 @@ OUTPUT
 |      0    |     |  *  |
 |___________|_____|_____|
 ```
+
+3 FACE PROGRAM
+```
+#include<stdio.h>
+int face();
+
+int face()
+{
+puts("_______________________\n |XXXXXXXXX |\n | ( ^ ^ ) |\n | ( 0 0 ) |\n | \ $
+}
+
+
+
+
+int main()
+{
+face();
+}
+```
+
+OUTPUT
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwNzc1MDEzNywxMjI0NDIyNjE4XX0=
+eyJoaXN0b3J5IjpbLTUxMTY3MzM1NCwxNTA3NzUwMTM3LDEyMj
+Q0MjI2MThdfQ==
 -->
