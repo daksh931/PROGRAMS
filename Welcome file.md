@@ -108,9 +108,12 @@ printf("|%d %d||%d %d|=|%d %d|\n",a,b,c,d,p,q);
 printf("|%d %d||%d %d|=|%d %d|",e,f,g,h,r,s);
 ```
 OUTPUT
+```|5 5||5 5|=|50 50|
+|5 5||5 5|=|50 50|
 ```
+4 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5NTU5MzQ1NywxNjgzMTIxMzQ1LC03MT
+eyJoaXN0b3J5IjpbMTk2MDkzMTA5OSwxNjgzMTIxMzQ1LC03MT
 czMDI3ODMsLTIwMzg2MzUzMTJdfQ==
 -->
