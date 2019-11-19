@@ -76,8 +76,13 @@ face();
 ```
 
 OUTPUT
-```
+``` |XXXXXXXXX |
+ | ( ^ ^ ) |
+ | ( 0 0 ) |
+ | \     / |
+ |  =   /  |
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxMTY3MzM1NCwxNTA3NzUwMTM3LDEyMj
+eyJoaXN0b3J5IjpbMTEwMjE0NDk0NywxNTA3NzUwMTM3LDEyMj
 Q0MjI2MThdfQ==
 -->
