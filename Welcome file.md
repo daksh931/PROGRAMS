@@ -320,18 +320,18 @@ Enter the number upto which numer times messgae display:6
 
 
 
-12  2:To fill your information
+12 ENTER DATA/INFO
 ```
-  // To fill your information
+
 #include<stdio.h>
 
-  void info();
+  void data();
   int main()
   {
-     inf();
+     data();
   }
 
-   void info()
+   void data()
   {  char a[20];
      int roll,age;
      long int ph;
@@ -366,7 +366,7 @@ Phone number is 9463****
 Age is 25
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0NTg5MzgxNywtMjg3NjMzNzk4LDU1NT
-gyNjg5NywzMjkzOTU1NjcsMTk2MDkzMTA5OSwxNjgzMTIxMzQ1
-LC03MTczMDI3ODMsLTIwMzg2MzUzMTJdfQ==
+eyJoaXN0b3J5IjpbMTkzMzYxMjE5LC0yODc2MzM3OTgsNTU1OD
+I2ODk3LDMyOTM5NTU2NywxOTYwOTMxMDk5LDE2ODMxMjEzNDUs
+LTcxNzMwMjc4MywtMjAzODYzNTMxMl19
 -->
