@@ -193,8 +193,50 @@ Number is even
 9
 Number is odd
 ```
-8
+8 PROGRAM USING SWITCH
+```
+#include<stdio.h>
+
+int main()
+{
+
+int a;
+scanf("%d",&a);
+
+
+char c;
+scanf("%c",&c);
+int d=80;
+
+
+switch (c)
+{
+case '+':
+   printf("addition of numbers &d\n",a);
+break;
+
+case'-':
+   printf("subs of numbers ");
+break;
+
+
+
+
+default :
+printf("Sorry");
+break;
+
+}
+
+
+}
+
+```
+OUTPUT
+```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI5Mzk1NTY3LDE5NjA5MzEwOTksMTY4Mz
-EyMTM0NSwtNzE3MzAyNzgzLC0yMDM4NjM1MzEyXX0=
+eyJoaXN0b3J5IjpbLTExMTE4MzIwMSwzMjkzOTU1NjcsMTk2MD
+kzMTA5OSwxNjgzMTIxMzQ1LC03MTczMDI3ODMsLTIwMzg2MzUz
+MTJdfQ==
 -->
