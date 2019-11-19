@@ -127,8 +127,12 @@ printf("Fatorial is %d\n",c);
 ```
 OUTPUT
 ```
+5
+Fatorial is 120
+```
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwODA1OTcwMywxOTYwOTMxMDk5LDE2OD
-MxMjEzNDUsLTcxNzMwMjc4MywtMjAzODYzNTMxMl19
+eyJoaXN0b3J5IjpbLTIwMzgxNzg0MjcsMTk2MDkzMTA5OSwxNj
+gzMTIxMzQ1LC03MTczMDI3ODMsLTIwMzg2MzUzMTJdfQ==
 -->
