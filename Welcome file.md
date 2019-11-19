@@ -131,8 +131,31 @@ OUTPUT
 Fatorial is 120
 ```
 
+6 Perimeter Area and Volume of Square
+```
+#include<stdio.h>
+void square();
+int main()
 
+{square();
+ return 0;
+}
+
+
+void square()
+{
+ int side;
+ printf("Enter the side of square:");
+ scanf("%d",&side);
+ printf("\nPerimeter of square:%d",4*side);
+ printf("\nArea of square:%d",side*side);
+ printf("\nVolume of square:%d\n",side*side*side);
+}
+
+```
+OUTPUT
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzgxNzg0MjcsMTk2MDkzMTA5OSwxNj
+eyJoaXN0b3J5IjpbLTE0MDc1NjE3ODIsMTk2MDkzMTA5OSwxNj
 gzMTIxMzQ1LC03MTczMDI3ODMsLTIwMzg2MzUzMTJdfQ==
 -->
