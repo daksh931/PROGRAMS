@@ -22,7 +22,7 @@ Guru Nanak Dev Eng. College
  Department Of Technology
           Daksh 
 ```
-2  FACE PROGRAM
+2  CALCULATOR PROGRAM
 ```#include<stdio.h>
 
 int face();
@@ -44,7 +44,17 @@ int main()
 
 OUTPUT
 
-
+```
+|_______________________|
+|  1  |  2  |  3  |     |
+|_____|_____|_____|_____|
+|  4  |  5  |  6  |  +  |
+|_____|_____|_____|_____|
+|  7  |  8  |  9  |  -  |
+|_____|_____|_____|_____|
+|      0    |     |  *  |
+|___________|_____|_____|
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3MTE4NTU5MSwxMjI0NDIyNjE4XX0=
+eyJoaXN0b3J5IjpbMTUwNzc1MDEzNywxMjI0NDIyNjE4XX0=
 -->
