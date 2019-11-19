@@ -84,6 +84,13 @@ OUTPUT
  |    =    |
  ```
 
+3 MATRIX PROGRAM
+```
+
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxNzMwMjc4MywtMjAzODYzNTMxMl19
+eyJoaXN0b3J5IjpbMTY4MzEyMTM0NSwtNzE3MzAyNzgzLC0yMD
+M4NjM1MzEyXX0=
 -->
