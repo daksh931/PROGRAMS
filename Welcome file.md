@@ -162,8 +162,37 @@ Area of square:9
 Volume of square:27
 ```
 
-7 NUMBER EVEN
+7 NUMBER EVEN/ODD
+```
+
+#include<stdio.h>
+
+int main()
+{
+
+int a;
+scanf("%d",&a);
+
+if(a%2==0)
+{
+printf("Number is even");
+}
+
+
+
+else
+{
+printf("Number is odd");
+}
+```
+
+OUTPUT
+```
+4
+Number is even
+9
+Number is odd
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzUwOTQzODE0LDE5NjA5MzEwOTksMTY4Mz
-EyMTM0NSwtNzE3MzAyNzgzLC0yMDM4NjM1MzEyXX0=
+eyJoaXN0b3J5IjpbLTg0NjA2MzYwOSwxOTYwOTMxMDk5LDE2OD
+MxMjEzNDUsLTcxNzMwMjc4MywtMjAzODYzNTMxMl19
 -->
