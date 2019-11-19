@@ -111,9 +111,24 @@ OUTPUT
 ```|5 5||5 5|=|50 50|
 |5 5||5 5|=|50 50|
 ```
-4 
+4 FACTORIAL PROGRAM
+```#include<stdio.h>
+
+int main()
+{int c = 1;
+int a,b;
+scanf("%d",&a);
+
+for(b=1; b<=a; b++)
+{
+c=c*b;
+}
+printf("Fatorial is %d\n",c);
+```
+OUTPUT
+```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2MDkzMTA5OSwxNjgzMTIxMzQ1LC03MT
-czMDI3ODMsLTIwMzg2MzUzMTJdfQ==
+eyJoaXN0b3J5IjpbMTcwODA1OTcwMywxOTYwOTMxMDk5LDE2OD
+MxMjEzNDUsLTcxNzMwMjc4MywtMjAzODYzNTMxMl19
 -->
