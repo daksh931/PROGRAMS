@@ -155,7 +155,13 @@ void square()
 ```
 OUTPUT
 ```
+Enter the side of square:3
+
+Perimeter of square:12
+Area of square:9
+Volume of square:27
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDc1NjE3ODIsMTk2MDkzMTA5OSwxNj
-gzMTIxMzQ1LC03MTczMDI3ODMsLTIwMzg2MzUzMTJdfQ==
+eyJoaXN0b3J5IjpbOTYyMDU4OTU0LDE5NjA5MzEwOTksMTY4Mz
+EyMTM0NSwtNzE3MzAyNzgzLC0yMDM4NjM1MzEyXX0=
 -->
