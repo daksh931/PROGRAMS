@@ -17,10 +17,13 @@ puts("\t\t\tDaksh");
 ```
 
 OUTPUT : 
-```Guru Nanak Dev Eng. College
-        Department Of Technology
-        Daksh
+```
+Guru Nanak Dev Eng. College
+ Department Of Technology
+           Daksh
+      
+           
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTk2MzQzNjJdfQ==
+eyJoaXN0b3J5IjpbLTExMzU4NzUzMTBdfQ==
 -->
