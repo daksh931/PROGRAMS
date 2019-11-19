@@ -20,10 +20,9 @@ OUTPUT :
 ```
 Guru Nanak Dev Eng. College
  Department Of Technology
-           Daksh
-      
-           
+          Daksh 
+```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzU4NzUzMTBdfQ==
+eyJoaXN0b3J5IjpbMTIyNDQyMjYxOF19
 -->
