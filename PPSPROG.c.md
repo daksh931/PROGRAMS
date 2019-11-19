@@ -367,6 +367,39 @@ Age is 25
 ```
 
 13 TABLE RANGE
+```
+#include<stdio.h>
+int main()
+{
+ int a,b,n;
+ printf("table of:");
+ scanf("%d",&a);
+ printf("\n enter the starting value of range:");
+ scanf("%d",&b);
+ printf("\n enter the last value of range:");
+ scanf("%d",&n);
+ for(b;b<=n;b++)
+ printf("%d x %d = %d\n",a,b,a*b);
+ return 0;
+ }
+
+```
+OUTPUT
+```
+table of:5
+
+ enter the starting value of range:6
+
+ enter the last value of range:12
+5 x 6 = 30
+5 x 7 = 35
+5 x 8 = 40
+5 x 9 = 45
+5 x 10 = 50
+5 x 11 = 55
+5 x 12 = 60
+```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE3OTQ3NF19
+eyJoaXN0b3J5IjpbLTEyNjA5MDY3MjEsNzE3OTQ3NF19
 -->
