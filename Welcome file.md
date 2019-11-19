@@ -229,9 +229,52 @@ OUTPUT
 ```
 9 ARRAYEVEN
 ```
+#include <stdio.h>
 
+
+int main()
+{
+    int a[1000],i,n,even=0,odd=0;
+
+    printf("Enter size of the array : ");
+    scanf("%d",&n);
+
+    printf("Enter elements in array : ");
+    for(i=0; i<n; i++)
+    {
+        scanf("%d",&a[i]);
+    }
+
+     for(i=0; i<n; i++)
+    {
+          if(a[i]%2==0)
+          even++;
+          else
+          odd++;
+
+    }
+     printf("even numbers in array: %d",even);
+     printf("\n odd numbers in array: %d",odd);
+
+
+    return 0;
+}
+```
+OUTPUT
+```
+Enter size of the array : 5
+Enter elements in array : 9
+4
+5
+5
+5
+even numbers in array: 1
+ odd numbers in array: 4
+ ```
+
+10 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0NTY5ODg0OSw1NTU4MjY4OTcsMzI5Mz
+eyJoaXN0b3J5IjpbMjA5NjAxNDExNyw1NTU4MjY4OTcsMzI5Mz
 k1NTY3LDE5NjA5MzEwOTksMTY4MzEyMTM0NSwtNzE3MzAyNzgz
 LC0yMDM4NjM1MzEyXX0=
 -->
