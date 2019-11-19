@@ -222,21 +222,9 @@ break;
 
 
 
-default :
-printf("Sorry");
-break;
-
-}
-
-
-}
-
-```
-OUTPUT
-```
-
+defaul
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTE4MzIwMSwzMjkzOTU1NjcsMTk2MD
-kzMTA5OSwxNjgzMTIxMzQ1LC03MTczMDI3ODMsLTIwMzg2MzUz
-MTJdfQ==
+eyJoaXN0b3J5IjpbLTEzMTM0MjcxNjAsMzI5Mzk1NTY3LDE5Nj
+A5MzEwOTksMTY4MzEyMTM0NSwtNzE3MzAyNzgzLC0yMDM4NjM1
+MzEyXX0=
 -->
