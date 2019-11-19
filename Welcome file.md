@@ -328,7 +328,7 @@ Enter the number upto which numer times messgae display:6
   void info();
   int main()
   {
-     info();
+     inf();
   }
 
    void info()
@@ -345,20 +345,20 @@ printf("\nAge = ");
  printf("\nPhone no.= ");
  scanf("%ld",&ph);
 
-printf("\nThe name is %s\nYour roll no is %d\nMy phone number is %ld\n My age is %d\n",a,roll,ph,age);
+printf("\nThe name is %s\nRoll no is %d\nPhone number is %ld\nAge is %d\n",a,roll,ph,age);
 
 }
 ```
 **OUTPUT:**
 ```
 Enter your information:
-Name = Jony
+Name = Daksh
 
-Roll no=100012
+Roll no=1921020
 
 Age = 25
 
-Phone no.= 943
+Phone no.= 9463*****
 
 The name is Daksh
 Roll no is 1921020
@@ -366,7 +366,7 @@ Phone number is 9463****
 Age is 25
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4MDY5NzEwNSwtMjg3NjMzNzk4LDU1NT
+eyJoaXN0b3J5IjpbMTY0NTg5MzgxNywtMjg3NjMzNzk4LDU1NT
 gyNjg5NywzMjkzOTU1NjcsMTk2MDkzMTA5OSwxNjgzMTIxMzQ1
 LC03MTczMDI3ODMsLTIwMzg2MzUzMTJdfQ==
 -->
