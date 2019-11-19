@@ -272,9 +272,26 @@ even numbers in array: 1
  odd numbers in array: 4
  ```
 
-10 
+10 FAHRENHEIT CENTIGRADE PROGRAM
+```
+#include<stdio.h>
+
+int main()
+{
+int a;
+scanf("%d",&a);
+int b=a*9/5;
+
+{a=b+32;
+printf("Value in centigrade %d \n",a);
+}
+}
+```
+OUTPUT
+```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5NjAxNDExNyw1NTU4MjY4OTcsMzI5Mz
-k1NTY3LDE5NjA5MzEwOTksMTY4MzEyMTM0NSwtNzE3MzAyNzgz
-LC0yMDM4NjM1MzEyXX0=
+eyJoaXN0b3J5IjpbNjc4MjYyOTg2LDU1NTgyNjg5NywzMjkzOT
+U1NjcsMTk2MDkzMTA5OSwxNjgzMTIxMzQ1LC03MTczMDI3ODMs
+LTIwMzg2MzUzMTJdfQ==
 -->
