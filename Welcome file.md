@@ -289,9 +289,13 @@ printf("Value in centigrade %d \n",a);
 ```
 OUTPUT
 ```
+45
+Value in centigrade 113
+```
 
+11 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc4MjYyOTg2LDU1NTgyNjg5NywzMjkzOT
-U1NjcsMTk2MDkzMTA5OSwxNjgzMTIxMzQ1LC03MTczMDI3ODMs
-LTIwMzg2MzUzMTJdfQ==
+eyJoaXN0b3J5IjpbLTI4NzYzMzc5OCw1NTU4MjY4OTcsMzI5Mz
+k1NTY3LDE5NjA5MzEwOTksMTY4MzEyMTM0NSwtNzE3MzAyNzgz
+LC0yMDM4NjM1MzEyXX0=
 -->
