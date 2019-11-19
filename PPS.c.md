@@ -22,7 +22,8 @@ Guru Nanak Dev Eng. College
  Department Of Technology
           Daksh 
 ```
-
+2  FACE PROGRAM
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyNDQyMjYxOF19
+eyJoaXN0b3J5IjpbNjI0MTQxNDcxLDEyMjQ0MjI2MThdfQ==
 -->
