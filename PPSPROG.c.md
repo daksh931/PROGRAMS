@@ -413,7 +413,49 @@ OUTPUT
  Hello world
  ```
 
+sum of two numbers
+```
+     // to find sum of two numbers
+     #include<stdio.h>
+int main()
+{                                                                                      
+ int a;
+ int b;
+ int c ;
+ printf("Enter two numbers to get sum:");
+ scanf("%d  %d",&a,&b);
+ printf(" \nThe result is :%d + %d= %d\n",a,b,c=a+b);
+    return 0;
+ }
+```
+**OUTPUT**:
+```
+Enter two numbers to get sum:45 55
+ 
+The result is :45 + 55= 100
+```
+ 4:Sum Average Of numbers
+```
+
+#include<stdio.h>
+  int main()
+ {                                 
+     int a,b,c,d,e,sum,avg;
+                                                               
+   printf("Enter five numbers:");
+   scanf("%d %d %d %d %d",&a,&b,&c,&d,&e);
+    sum = a+b+c+d+e;
+   printf("The sum is:%d\n",sum);
+   avg = sum/5;
+   printf("The average is:%d\n",avg);
+  }
+```
+OUTPUT
+```
+Enter five numbers:1 2 3 4 5 
+The sum is:15
+The average is:3
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyNjczNzYxMywtMTM5OTQwMTMyMCw3MT
+eyJoaXN0b3J5IjpbLTU4MzA4Njk5OCwtMTM5OTQwMTMyMCw3MT
 c5NDc0XX0=
 -->
