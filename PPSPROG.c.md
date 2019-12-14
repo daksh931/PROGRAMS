@@ -63,6 +63,8 @@ Guru Nanak Dev Eng. College
 
 ```
 
+
+```
 **2  CALCULATOR PROGRAM**
 ```#include<stdio.h>
 
@@ -501,7 +503,7 @@ The average is:3
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0NTY2NDQ5NSwtMTY4MzMwNDI4NSwxMj
-QzNDE0OTY3LDE5OTAyMDQxNTEsLTE1OTUxODc2MDksLTEzOTk0
-MDEzMjAsNzE3OTQ3NF19
+eyJoaXN0b3J5IjpbMjY4OTc1NzM1LC0xNjgzMzA0Mjg1LDEyND
+M0MTQ5NjcsMTk5MDIwNDE1MSwtMTU5NTE4NzYwOSwtMTM5OTQw
+MTMyMCw3MTc5NDc0XX0=
 -->
