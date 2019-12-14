@@ -60,7 +60,11 @@ Guru Nanak Dev Eng. College
   
 
 **OUTPUT**
-Enter 
+Enter values in array
+4
+
+Enter numbers in array
+4+5+2+3
 ```
 
 
@@ -503,7 +507,7 @@ The average is:3
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwOTM1MDc5OSwtMTY4MzMwNDI4NSwxMj
+eyJoaXN0b3J5IjpbLTcyODYzMjIxOCwtMTY4MzMwNDI4NSwxMj
 QzNDE0OTY3LDE5OTAyMDQxNTEsLTE1OTUxODc2MDksLTEzOTk0
 MDEzMjAsNzE3OTQ3NF19
 -->
