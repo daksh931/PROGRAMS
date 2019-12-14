@@ -188,15 +188,9 @@ Number is even
 9
 Number is odd
 ```
-**
 
-**
 
-    8 TABLE OF NUMBER
-
-**
-
-**
+**8 TABLE OF NUMBER**
 ```
 
 #include<stdio.h>
@@ -463,7 +457,7 @@ Enter five numbers:1 2 3 4 5
 The sum is:15
 The average is:3
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjU1NDQyNDEsMTI0MzQxNDk2NywxOT
+eyJoaXN0b3J5IjpbLTEwNzE3NzA4OTMsMTI0MzQxNDk2NywxOT
 kwMjA0MTUxLC0xNTk1MTg3NjA5LC0xMzk5NDAxMzIwLDcxNzk0
 NzRdfQ==
 -->
