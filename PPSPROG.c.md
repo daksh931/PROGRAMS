@@ -60,13 +60,14 @@ Guru Nanak Dev Eng. College
   
 
 **OUTPUT**
-```Enter values in array
+```
+Enter values in array
 4
 
 Enter numbers in array
 4,6,2,8
 
-
+Sum of array is 20
 
 ```
 **2  CALCULATOR PROGRAM**
@@ -507,7 +508,7 @@ The average is:3
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTQwNTE2NzMsLTE2ODMzMDQyODUsMT
-I0MzQxNDk2NywxOTkwMjA0MTUxLC0xNTk1MTg3NjA5LC0xMzk5
-NDAxMzIwLDcxNzk0NzRdfQ==
+eyJoaXN0b3J5IjpbMjA0MjA4NjkyNiwtMTY4MzMwNDI4NSwxMj
+QzNDE0OTY3LDE5OTAyMDQxNTEsLTE1OTUxODc2MDksLTEzOTk0
+MDEzMjAsNzE3OTQ3NF19
 -->
