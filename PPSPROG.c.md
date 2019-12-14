@@ -244,7 +244,11 @@ int main()
           if(a[i]%2==0)
           even++;
           else
-          odd++;
+ 
+
+ - List item
+
+         odd++;
 
     }
      printf("even numbers in array: %d",even);
@@ -450,6 +454,7 @@ Enter five numbers:1 2 3 4 5
 The sum is:15
 The average is:3
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0MzQxNDk2NywxOTkwMjA0MTUxLC0xNT
-k1MTg3NjA5LC0xMzk5NDAxMzIwLDcxNzk0NzRdfQ==
+eyJoaXN0b3J5IjpbLTE4NjY0MDAwMzEsMTI0MzQxNDk2NywxOT
+kwMjA0MTUxLC0xNTk1MTg3NjA5LC0xMzk5NDAxMzIwLDcxNzk0
+NzRdfQ==
 -->
