@@ -148,7 +148,7 @@ void square()
 }
 
 ```
-OUTPUT
+**OUTPUT**
 ```
 Enter the side of square:3
 
@@ -157,7 +157,7 @@ Area of square:9
 Volume of square:27
 ```
 
-7 NUMBER EVEN/ODD
+**7 NUMBER EVEN/ODD**
 ```
 
 #include<stdio.h>
@@ -181,14 +181,22 @@ printf("Number is odd");
 }
 ```
 
-OUTPUT
+**OUTPUT**
 ```
 4
 Number is even
 9
 Number is odd
 ```
-8 TABLE OF NUMBER
+**
+
+**
+
+    8 TABLE OF NUMBER
+
+**
+
+**
 ```
 
 #include<stdio.h>
@@ -455,7 +463,7 @@ Enter five numbers:1 2 3 4 5
 The sum is:15
 The average is:3
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1NDk0MDQ5NSwxMjQzNDE0OTY3LDE5OT
-AyMDQxNTEsLTE1OTUxODc2MDksLTEzOTk0MDEzMjAsNzE3OTQ3
-NF19
+eyJoaXN0b3J5IjpbLTEwNjU1NDQyNDEsMTI0MzQxNDk2NywxOT
+kwMjA0MTUxLC0xNTk1MTg3NjA5LC0xMzk5NDAxMzIwLDcxNzk0
+NzRdfQ==
 -->
