@@ -1,3 +1,15 @@
+**
+
+## PPS PROGRAMS
+DAKSH GOYAL
+IT A
+ROLL NO 1921020
+**
+
+
+
+
+
  **1 : PROGRAM ON FUNCTION** 
 ```#include<stdio.h>
 int name();
@@ -460,7 +472,7 @@ The average is:3
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODMzMDQyODUsMTI0MzQxNDk2NywxOT
-kwMjA0MTUxLC0xNTk1MTg3NjA5LC0xMzk5NDAxMzIwLDcxNzk0
-NzRdfQ==
+eyJoaXN0b3J5IjpbLTIwNTY0NTc4MSwtMTY4MzMwNDI4NSwxMj
+QzNDE0OTY3LDE5OTAyMDQxNTEsLTE1OTUxODc2MDksLTEzOTk0
+MDEzMjAsNzE3OTQ3NF19
 -->
