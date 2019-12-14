@@ -102,10 +102,11 @@ printf("|%d %d||%d %d|=|%d %d|\n",a,b,c,d,p,q);
 printf("|%d %d||%d %d|=|%d %d|",e,f,g,h,r,s);
 ```
 **OUTPUT**
-```|5 5||5 5|=|50 50|
+```
 |5 5||5 5|=|50 50|
-``
-5 FACTORIAL PROGRAM
+|5 5||5 5|=|50 50|
+```
+**5 FACTORIAL PROGRAM**
 ```#include<stdio.h>
 
 int main()
@@ -119,13 +120,13 @@ c=c*b;
 }
 printf("Fatorial is %d\n",c);
 ```
-OUTPUT
+**OUTPUT**
 ```
 5
 Fatorial is 120
 ```
 
-6 Perimeter Area and Volume of Square
+**6 Perimeter Area and Volume of Square**
 ```
 #include<stdio.h>
 void square();
@@ -454,7 +455,7 @@ Enter five numbers:1 2 3 4 5
 The sum is:15
 The average is:3
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODM2OTI1NzEsMTI0MzQxNDk2NywxOT
-kwMjA0MTUxLC0xNTk1MTg3NjA5LC0xMzk5NDAxMzIwLDcxNzk0
-NzRdfQ==
+eyJoaXN0b3J5IjpbMTU1NDk0MDQ5NSwxMjQzNDE0OTY3LDE5OT
+AyMDQxNTEsLTE1OTUxODc2MDksLTEzOTk0MDEzMjAsNzE3OTQ3
+NF19
 -->
