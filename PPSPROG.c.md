@@ -1,4 +1,4 @@
-1 : PROGRAM ON FUNCTION
+ 1 : PROGRAM ON FUNCTION 
 ```#include<stdio.h>
 int name();
 int daksh();
@@ -456,6 +456,6 @@ Enter five numbers:1 2 3 4 5
 The sum is:15
 The average is:3
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTUxODc2MDksLTEzOTk0MDEzMjAsNz
-E3OTQ3NF19
+eyJoaXN0b3J5IjpbMTk5MDIwNDE1MSwtMTU5NTE4NzYwOSwtMT
+M5OTQwMTMyMCw3MTc5NDc0XX0=
 -->
