@@ -414,7 +414,7 @@ int main()
  Hello world
  ```
 
-15 SUM OF NUMBERS
+**15 SUM OF NUMBERS**
 ```
     
      #include<stdio.h>
@@ -429,13 +429,13 @@ int main()
     return 0;
  }
 ```
-OUTPUT
+**OUTPUT**
 ```
 Enter two numbers to get sum:45 55
  
 The result is :45 + 55= 100
 ```
- 16 SUM AVERAGE OF NUMBERS
+ **16 SUM AVERAGE OF NUMBERS**
 ```
 
 #include<stdio.h>
@@ -451,13 +451,16 @@ The result is :45 + 55= 100
    printf("The average is:%d\n",avg);
   }
 ```
-OUTPUT
+**OUTPUT**
 ```
 Enter five numbers:1 2 3 4 5 
 The sum is:15
 The average is:3
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5ODIwMzgxNSwxMjQzNDE0OTY3LDE5OT
-AyMDQxNTEsLTE1OTUxODc2MDksLTEzOTk0MDEzMjAsNzE3OTQ3
-NF19
+eyJoaXN0b3J5IjpbLTE2ODMzMDQyODUsMTI0MzQxNDk2NywxOT
+kwMjA0MTUxLC0xNTk1MTg3NjA5LC0xMzk5NDAxMzIwLDcxNzk0
+NzRdfQ==
 -->
