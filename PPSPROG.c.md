@@ -190,7 +190,7 @@ Number is odd
 ```
 
 
-**8 TABLE OF NUMBER**
+**8 TABLE USER ENTERED NUMBER**
 ```
 
 #include<stdio.h>
@@ -210,7 +210,7 @@ printf("%d * %d = %d\n",a,b,c);
 
 }
 ```
-OUTPUT
+**OUTPUT**
 ```
 5
 5 * 1 = 5
@@ -224,7 +224,7 @@ OUTPUT
 5 * 9 = 45
 5 * 10 = 50
 ```
-9 ARRAYEVEN
+**9 EVEN-ODD NUMBERS IN ARRAY**
 ```
 #include <stdio.h>
 
@@ -457,7 +457,7 @@ Enter five numbers:1 2 3 4 5
 The sum is:15
 The average is:3
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzE3NzA4OTMsMTI0MzQxNDk2NywxOT
+eyJoaXN0b3J5IjpbLTExNDc1ODU2MzksMTI0MzQxNDk2NywxOT
 kwMjA0MTUxLC0xNTk1MTg3NjA5LC0xMzk5NDAxMzIwLDcxNzk0
 NzRdfQ==
 -->
