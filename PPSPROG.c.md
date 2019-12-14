@@ -1,4 +1,4 @@
- 1 : PROGRAM ON FUNCTION 
+ **1 : PROGRAM ON FUNCTION** 
 ```#include<stdio.h>
 int name();
 int daksh();
@@ -16,13 +16,13 @@ puts("\t\t\tDaksh");
 }
 ```
 
-OUTPUT : 
+**OUTPUT :** 
 ```
 Guru Nanak Dev Eng. College
  Department Of Technology
           Daksh 
 ```
-2  CALCULATOR PROGRAM
+**2  CALCULATOR PROGRAM**
 ```#include<stdio.h>
 
 int face();
@@ -42,7 +42,7 @@ int main()
 {face();}
 ```
 
-OUTPUT
+**OUTPUT**
 
 ```
 |_______________________|
@@ -56,7 +56,7 @@ OUTPUT
 |___________|_____|_____|
 ```
 
-3 FACE PROGRAM
+**3 FACE PROGRAM**
 ```
 #include<stdio.h>
 int face();
@@ -75,7 +75,7 @@ face();
 }
 ```
 
-OUTPUT
+**OUTPUT**
 ``` |XXXXXXXXX |
  | ( ^ ^ ) |
  | ( 0 0 ) |
@@ -84,7 +84,7 @@ OUTPUT
  |    =    |
  ```
 
-4 MATRIX PROGRAM
+**4 MATRIX PROGRAM**
 ```
 #include<stdio.h>
 
@@ -101,10 +101,10 @@ scanf("%d%d%d%d%d%d%d%d",&a,&b,&c,&d,&e,&f,&g,&h);
 printf("|%d %d||%d %d|=|%d %d|\n",a,b,c,d,p,q);
 printf("|%d %d||%d %d|=|%d %d|",e,f,g,h,r,s);
 ```
-OUTPUT
+**OUTPUT**
 ```|5 5||5 5|=|50 50|
 |5 5||5 5|=|50 50|
-```
+``
 5 FACTORIAL PROGRAM
 ```#include<stdio.h>
 
@@ -454,7 +454,7 @@ Enter five numbers:1 2 3 4 5
 The sum is:15
 The average is:3
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjY0MDAwMzEsMTI0MzQxNDk2NywxOT
+eyJoaXN0b3J5IjpbLTExODM2OTI1NzEsMTI0MzQxNDk2NywxOT
 kwMjA0MTUxLC0xNTk1MTg3NjA5LC0xMzk5NDAxMzIwLDcxNzk0
 NzRdfQ==
 -->
