@@ -261,7 +261,7 @@ int main()
     return 0;
 }
 ```
-OUTPUT
+**OUTPUT**
 ```
 Enter size of the array : 5
 Enter elements in array : 9
@@ -273,7 +273,7 @@ even numbers in array: 1
  odd numbers in array: 4
  ```
 
-10 FAHRENHEIT CENTIGRADE PROGRAM
+**10 FAHRENHEIT CENTIGRADE PROGRAM**
 ```
 #include<stdio.h>
 
@@ -288,13 +288,13 @@ printf("Value in centigrade %d \n",a);
 }
 }
 ```
-OUTPUT
+**OUTPUT**
 ```
 45
 Value in centigrade 113
 ```
 
-11 PUTS VALUE
+**11 PUTS VALUE**
 ```
 #include<stdio.h>
  int main()
@@ -308,7 +308,7 @@ return 0;
 }
 
 ```
-OUTPUT
+**OUTPUT**
 ```
 Enter the number upto which numer times messgae display:6
  HARD WORK IS KEY TO SUCCESS
@@ -321,7 +321,7 @@ Enter the number upto which numer times messgae display:6
 
 
 
-12 ENTER DATA/INFO
+**12 ENTER DATA/INFO**
 ```
 
 #include<stdio.h>
@@ -367,7 +367,7 @@ Phone number is 9463****
 Age is 25
 ```
 
-13 TABLE RANGE
+**13 TABLE RANGE**
 ```
 #include<stdio.h>
 int main()
@@ -385,7 +385,7 @@ int main()
  }
 
 ```
-OUTPUT
+**OUTPUT**
 ```
 table of:5
 
@@ -401,7 +401,7 @@ table of:5
 5 x 12 = 60
 ```
 
-14 Hello World Program
+**14 Hello World Program**
 ```
 #include<stdio.h>
 int main()
@@ -409,7 +409,7 @@ int main()
  printf("\nHello world\n");
 }
 ```
-OUTPUT
+**OUTPUT**
 ```
  Hello world
  ```
@@ -457,7 +457,7 @@ Enter five numbers:1 2 3 4 5
 The sum is:15
 The average is:3
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDc1ODU2MzksMTI0MzQxNDk2NywxOT
-kwMjA0MTUxLC0xNTk1MTg3NjA5LC0xMzk5NDAxMzIwLDcxNzk0
-NzRdfQ==
+eyJoaXN0b3J5IjpbLTU5ODIwMzgxNSwxMjQzNDE0OTY3LDE5OT
+AyMDQxNTEsLTE1OTUxODc2MDksLTEzOTk0MDEzMjAsNzE3OTQ3
+NF19
 -->
