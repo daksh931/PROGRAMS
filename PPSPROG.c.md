@@ -86,16 +86,10 @@ OUTPUT
 
 4 MATRIX PROGRAM
 ```
-
-
-
 #include<stdio.h>
-
 
 void main()
 {
-
-
 int a,b,c,d,e,f,g,h,p,q,r,s;
 
 scanf("%d%d%d%d%d%d%d%d",&a,&b,&c,&d,&e,&f,&g,&h);
@@ -456,6 +450,6 @@ Enter five numbers:1 2 3 4 5
 The sum is:15
 The average is:3
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5MDIwNDE1MSwtMTU5NTE4NzYwOSwtMT
-M5OTQwMTMyMCw3MTc5NDc0XX0=
+eyJoaXN0b3J5IjpbMTI0MzQxNDk2NywxOTkwMjA0MTUxLC0xNT
+k1MTg3NjA5LC0xMzk5NDAxMzIwLDcxNzk0NzRdfQ==
 -->
