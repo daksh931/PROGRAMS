@@ -47,13 +47,22 @@ Guru Nanak Dev Eng. College
      printf("Enter the size of array but less than 20: ");
      scanf("%d",&s);
      for(i=0;i<=s;i++)
-      {
+       {
        printf("Enter the value in a[%d]: ",i);    
-       scanf("%d",&a[i]); }
-       for(i=0;i<=s;i++)
-        {
-         sum=sum+a[i]; } printf("The Sum of an array is %d ",sum); return 0; }
-  ``` 
+       scanf("%d",&a[i]); 
+       }
+      for(i=0;i<=s;i++)
+       {
+         sum=sum+a[i]; 
+       }
+       printf("The Sum of an array is %d ",sum); return 0; }
+  ```
+  
+
+**OUTPUT**
+
+```
+
 **2  CALCULATOR PROGRAM**
 ```#include<stdio.h>
 
@@ -492,7 +501,7 @@ The average is:3
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyNDAxNTk2MCwtMTY4MzMwNDI4NSwxMj
+eyJoaXN0b3J5IjpbMTc0NTY2NDQ5NSwtMTY4MzMwNDI4NSwxMj
 QzNDE0OTY3LDE5OTAyMDQxNTEsLTE1OTUxODc2MDksLTEzOTk0
 MDEzMjAsNzE3OTQ3NF19
 -->
