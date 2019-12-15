@@ -68,25 +68,47 @@ Enter numbers in array
 4,6,2,8
 
 Sum of array is 20
+```
+
+**BUBBLE SORT PROGRAM**
 
 ```
-1.  `#include  <stdio.h>`
-
-3.  `void bubbleSort(int arrayay[],  int size)`
-4.  `{`
-5.  `for  (int step =  0; step & lt; size -  1;  ++step)`
-6.  `{`
-7.  `// The variable "swapped" is introduced for optimization.`
-8.  `int swapped =  0;`
-9.  `for  (int i =  0; i & lt; size - step -  1;  ++i)`
-10.  `{`
-11.  `// To sort in descending order, change > to < in this line.`
-12.  `if  (arrayay[i]  & gt; arrayay[i +  1])`
-13.  `{`
-14.  `int temp = arrayay[i];`
-15.  `arrayay[i]  = arrayay[i +  1]arrayay[i +  1]  = temp;swapped =  1;`
-`}`
-
+void main()
+{
+    int array[MAXSIZE];
+    int i, j, num, temp;
+ 
+ printf("Enter the value of num \n");
+    scanf("%d", &num);
+    printf("Enter the elements one by one \n");
+    for (i = 0; i < num; i++)
+    {
+        scanf("%d", &array[i]);
+    }
+    printf("Input array is \n");
+    for (i = 0; i < num; i++)
+    {
+        printf("%d\n", array[i]);
+    }
+    /*   Bubble sorting begins */
+    for (i = 0; i < num; i++)
+    {
+        for (j = 0; j < (num - i - 1); j++)
+        {
+            if (array[j] > array[j + 1])
+            {
+                temp = array[j];
+                array[j] = array[j + 1];
+                array[j + 1] = temp;
+            }
+        }
+    }
+    printf("Sorted array is...\n");
+    for (i = 0; i < num; i++)
+    {
+        printf("%d\n", array[i]);
+    }
+}
 **2  CALCULATOR PROGRAM**
 ```#include<stdio.h>
 
@@ -525,7 +547,8 @@ The average is:3
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1MDk0NDIwMCwyMDQyMDg2OTI2LC0xNj
-gzMzA0Mjg1LDEyNDM0MTQ5NjcsMTk5MDIwNDE1MSwtMTU5NTE4
-NzYwOSwtMTM5OTQwMTMyMCw3MTc5NDc0XX0=
+eyJoaXN0b3J5IjpbLTExMTU2MzQwNTQsMTE1MDk0NDIwMCwyMD
+QyMDg2OTI2LC0xNjgzMzA0Mjg1LDEyNDM0MTQ5NjcsMTk5MDIw
+NDE1MSwtMTU5NTE4NzYwOSwtMTM5OTQwMTMyMCw3MTc5NDc0XX
+0=
 -->
