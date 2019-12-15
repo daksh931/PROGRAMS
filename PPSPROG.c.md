@@ -39,7 +39,7 @@ Guru Nanak Dev Eng. College
  Department Of Technology
           Daksh 
 ```
- SUM OF ARRAY
+ **SUM OF ARRAY**
  ```
  
   #include <stdio.h>
@@ -143,7 +143,8 @@ Sorted array is...
 
 ```
 **2  CALCULATOR PROGRAM**
-```#include<stdio.h>
+```
+#include<stdio.h>
 
 int face();
 int face()
@@ -229,7 +230,8 @@ printf("|%d %d||%d %d|=|%d %d|",e,f,g,h,r,s);
 |5 5||5 5|=|50 50|
 ```
 **5 FACTORIAL PROGRAM**
-```#include<stdio.h>
+```
+#include<stdio.h>
 
 int main()
 {int c = 1;
@@ -582,8 +584,8 @@ The average is:3
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1NTIzOTIzLC03NTAxMjQzNTUsMTE1MD
-k0NDIwMCwyMDQyMDg2OTI2LC0xNjgzMzA0Mjg1LDEyNDM0MTQ5
-NjcsMTk5MDIwNDE1MSwtMTU5NTE4NzYwOSwtMTM5OTQwMTMyMC
-w3MTc5NDc0XX0=
+eyJoaXN0b3J5IjpbMjA2OTE4MjM4MSwtNzUwMTI0MzU1LDExNT
+A5NDQyMDAsMjA0MjA4NjkyNiwtMTY4MzMwNDI4NSwxMjQzNDE0
+OTY3LDE5OTAyMDQxNTEsLTE1OTUxODc2MDksLTEzOTk0MDEzMj
+AsNzE3OTQ3NF19
 -->
