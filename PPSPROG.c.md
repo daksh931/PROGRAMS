@@ -415,9 +415,13 @@ int fact(int n)
         return n*fact(n-1);                                                                                                                      
     else                                                                                                                                         
         return 1;                                                                                                                                
- }   
+ }  
+```
+**OUTPUT**
+
 ```
 
+```
 
 **8 TABLE OF USER ENTERED NUMBER**
 ```
@@ -689,9 +693,9 @@ The average is:3
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0MTAzOTMzNCwxOTY3NjI2MzA1LC0xMj
-k1NTE3OTMxLDE3NjQ1OTUzMDAsNjkxMTE1NTQ4LC03NTAxMjQz
-NTUsMTE1MDk0NDIwMCwyMDQyMDg2OTI2LC0xNjgzMzA0Mjg1LD
-EyNDM0MTQ5NjcsMTk5MDIwNDE1MSwtMTU5NTE4NzYwOSwtMTM5
-OTQwMTMyMCw3MTc5NDc0XX0=
+eyJoaXN0b3J5IjpbMzk1MTA3ODc5LDE5Njc2MjYzMDUsLTEyOT
+U1MTc5MzEsMTc2NDU5NTMwMCw2OTExMTU1NDgsLTc1MDEyNDM1
+NSwxMTUwOTQ0MjAwLDIwNDIwODY5MjYsLTE2ODMzMDQyODUsMT
+I0MzQxNDk2NywxOTkwMjA0MTUxLC0xNTk1MTg3NjA5LC0xMzk5
+NDAxMzIwLDcxNzk0NzRdfQ==
 -->
