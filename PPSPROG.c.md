@@ -101,9 +101,10 @@ int main()
 **OUTPUT**
 ```
                                                                                                                                                  
-Enter an integer: 569                                                                                                                            
-Reversed Number = 965                                                 
-Enter an integer: 5479963                                                                                                                        
+Enter an integer: 569 
+Reversed Number = 965  
+                                               
+Enter an integer: 5479963
 Reversed Number = 3699745
 ```
 
@@ -662,9 +663,9 @@ The average is:3
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODcyMDEwNjAzLC0xMjk1NTE3OTMxLDE3Nj
-Q1OTUzMDAsNjkxMTE1NTQ4LC03NTAxMjQzNTUsMTE1MDk0NDIw
-MCwyMDQyMDg2OTI2LC0xNjgzMzA0Mjg1LDEyNDM0MTQ5NjcsMT
-k5MDIwNDE1MSwtMTU5NTE4NzYwOSwtMTM5OTQwMTMyMCw3MTc5
-NDc0XX0=
+eyJoaXN0b3J5IjpbMTk2NzYyNjMwNSwtMTI5NTUxNzkzMSwxNz
+Y0NTk1MzAwLDY5MTExNTU0OCwtNzUwMTI0MzU1LDExNTA5NDQy
+MDAsMjA0MjA4NjkyNiwtMTY4MzMwNDI4NSwxMjQzNDE0OTY3LD
+E5OTAyMDQxNTEsLTE1OTUxODc2MDksLTEzOTk0MDEzMjAsNzE3
+OTQ3NF19
 -->
