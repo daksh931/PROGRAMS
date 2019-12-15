@@ -606,7 +606,7 @@ Phone number is 9463****
 Age is 25
 ```
 
-**13 TABLE RANGE**
+**18 TABLE RANGE**
 ```
 #include<stdio.h>
 int main()
@@ -640,7 +640,7 @@ table of:5
 5 x 12 = 60
 ```
 
-**14 Hello World Program**
+**19 Hello World Program**
 ```
 #include<stdio.h>
 int main()
@@ -653,7 +653,7 @@ int main()
  Hello world
  ```
 
-**15 SUM OF NUMBERS**
+**20 SUM OF NUMBERS**
 ```
     
      #include<stdio.h>
@@ -674,7 +674,7 @@ Enter two numbers to get sum:45 55
  
 The result is :45 + 55= 100
 ```
- **16 SUM AVERAGE OF NUMBERS**
+ **21 SUM AVERAGE OF NUMBERS**
 ```
 
 #include<stdio.h>
@@ -699,9 +699,9 @@ The average is:3
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDczODIwMzgsMTk2NzYyNjMwNSwtMT
-I5NTUxNzkzMSwxNzY0NTk1MzAwLDY5MTExNTU0OCwtNzUwMTI0
-MzU1LDExNTA5NDQyMDAsMjA0MjA4NjkyNiwtMTY4MzMwNDI4NS
-wxMjQzNDE0OTY3LDE5OTAyMDQxNTEsLTE1OTUxODc2MDksLTEz
-OTk0MDEzMjAsNzE3OTQ3NF19
+eyJoaXN0b3J5IjpbLTY5OTAzNzY4NiwxOTY3NjI2MzA1LC0xMj
+k1NTE3OTMxLDE3NjQ1OTUzMDAsNjkxMTE1NTQ4LC03NTAxMjQz
+NTUsMTE1MDk0NDIwMCwyMDQyMDg2OTI2LC0xNjgzMzA0Mjg1LD
+EyNDM0MTQ5NjcsMTk5MDIwNDE1MSwtMTU5NTE4NzYwOSwtMTM5
+OTQwMTMyMCw3MTc5NDc0XX0=
 -->
