@@ -109,6 +109,13 @@ void main()
         printf("%d\n", array[i]);
     }
 }
+```
+**OUTPUT**
+```
+
+
+
+```
 **2  CALCULATOR PROGRAM**
 ```#include<stdio.h>
 
@@ -547,8 +554,8 @@ The average is:3
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTU2MzQwNTQsMTE1MDk0NDIwMCwyMD
-QyMDg2OTI2LC0xNjgzMzA0Mjg1LDEyNDM0MTQ5NjcsMTk5MDIw
-NDE1MSwtMTU5NTE4NzYwOSwtMTM5OTQwMTMyMCw3MTc5NDc0XX
-0=
+eyJoaXN0b3J5IjpbLTc1MDEyNDM1NSwxMTUwOTQ0MjAwLDIwND
+IwODY5MjYsLTE2ODMzMDQyODUsMTI0MzQxNDk2NywxOTkwMjA0
+MTUxLC0xNTk1MTg3NjA5LC0xMzk5NDAxMzIwLDcxNzk0NzRdfQ
+==
 -->
