@@ -42,7 +42,7 @@ Guru Nanak Dev Eng. College
  
 
 
-**PRIME NUMBER**
+**2 PRIME NUMBER**
 ```
                                                                                                                                                  
 #include<stdio.h>                                                                                                                                
@@ -77,7 +77,7 @@ number is not prime 12
 
 ```
 
-**REVERSE OF NUMBER**
+**3 REVERSE OF NUMBER**
 ```
                                                                                                                                                  
 #include <stdio.h>                                                                                                                               
@@ -109,7 +109,7 @@ Reversed Number = 3699745
 ```
 
 
-**SUM OF ARRAY**
+**4 SUM OF ARRAY**
 
 
  ```
@@ -146,7 +146,7 @@ Enter numbers in array
 Sum of array is 20
 ```
 
-**BUBBLE SORT PROGRAM**
+**5 BUBBLE SORT PROGRAM**
 
 ```
 
@@ -221,7 +221,7 @@ Sorted array is...
 
 
 
-**2  CALCULATOR PROGRAM**
+**6 CALCULATOR PROGRAM**
 ```
 #include<stdio.h>
 
@@ -258,7 +258,7 @@ face();
 |___________|_____|_____|
 ```
 
-**3 FACE PROGRAM**
+**7 FACE PROGRAM**
 ```
 #include<stdio.h>
 int face();
@@ -286,7 +286,7 @@ face();
  |    =    |
  ```
 
-**4 MATRIX PROGRAM**
+**8 MATRIX PROGRAM**
 ```
 #include<stdio.h>
 
@@ -308,7 +308,7 @@ printf("|%d %d||%d %d|=|%d %d|",e,f,g,h,r,s);
 |5 5||5 5|=|50 50|
 |5 5||5 5|=|50 50|
 ```
-**5 FACTORIAL PROGRAM**
+**9 FACTORIAL PROGRAM**
 ```
 #include<stdio.h>
 
@@ -329,7 +329,7 @@ printf("Fatorial is %d\n",c);
 Fatorial is 120
 ```
 
-**6 Perimeter Area and Volume of Square**
+**10 Perimeter Area and Volume of Square**
 ```
 #include<stdio.h>
 void square();
@@ -360,7 +360,7 @@ Area of square:9
 Volume of square:27
 ```
 
-**7 NUMBER EVEN/ODD**
+**11 NUMBER EVEN/ODD**
 ```
 
 #include<stdio.h>
@@ -391,7 +391,7 @@ Number is even
 9
 Number is odd
 ```
-**FACTORIAL BY RECURSION**
+**12 FACTORIAL BY RECURSION**
 
 ```
 #include<stdio.h>                                                                                                                                
@@ -429,7 +429,7 @@ int fact(int n)
  factorial is 3628800
 ```
 
-**8 TABLE OF USER ENTERED NUMBER**
+**13 TABLE OF USER ENTERED NUMBER**
 ```
 
 #include<stdio.h>
@@ -463,7 +463,7 @@ printf("%d * %d = %d\n",a,b,c);
 5 * 9 = 45
 5 * 10 = 50
 ```
-**9 EVEN-ODD NUMBERS IN ARRAY**
+**14 EVEN-ODD NUMBERS IN ARRAY**
 ```
 #include <stdio.h>
 
@@ -512,7 +512,7 @@ even numbers in array: 1
  odd numbers in array: 4
  ```
 
-**10 FAHRENHEIT CENTIGRADE PROGRAM**
+**15 FAHRENHEIT CENTIGRADE PROGRAM**
 ```
 #include<stdio.h>
 
@@ -533,7 +533,7 @@ printf("Value in centigrade %d \n",a);
 Value in centigrade 113
 ```
 
-**11 PUTS VALUE**
+**16 PUTS VALUE**
 ```
 #include<stdio.h>
  int main()
@@ -560,7 +560,7 @@ Enter the number upto which numer times messgae display:6
 
 
 
-**12 ENTER DATA/INFO**
+**17 ENTER DATA/INFO**
 ```
 
 #include<stdio.h>
@@ -699,9 +699,9 @@ The average is:3
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0MDYxMDMxNCwxOTY3NjI2MzA1LC0xMj
-k1NTE3OTMxLDE3NjQ1OTUzMDAsNjkxMTE1NTQ4LC03NTAxMjQz
-NTUsMTE1MDk0NDIwMCwyMDQyMDg2OTI2LC0xNjgzMzA0Mjg1LD
-EyNDM0MTQ5NjcsMTk5MDIwNDE1MSwtMTU5NTE4NzYwOSwtMTM5
-OTQwMTMyMCw3MTc5NDc0XX0=
+eyJoaXN0b3J5IjpbLTE5NDczODIwMzgsMTk2NzYyNjMwNSwtMT
+I5NTUxNzkzMSwxNzY0NTk1MzAwLDY5MTExNTU0OCwtNzUwMTI0
+MzU1LDExNTA5NDQyMDAsMjA0MjA4NjkyNiwtMTY4MzMwNDI4NS
+wxMjQzNDE0OTY3LDE5OTAyMDQxNTEsLTE1OTUxODc2MDksLTEz
+OTk0MDEzMjAsNzE3OTQ3NF19
 -->
