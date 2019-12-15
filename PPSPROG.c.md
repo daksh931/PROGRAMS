@@ -15,7 +15,7 @@
 
 
  **1 : PROGRAM ON FUNCTION** 
-``
+```
 `#include<stdio.h>
 int name();
 int daksh();
@@ -41,6 +41,7 @@ Guru Nanak Dev Eng. College
 ```
  SUM OF ARRAY
  ```
+ 
   #include <stdio.h>
    int main()
     {
@@ -59,7 +60,7 @@ Guru Nanak Dev Eng. College
        printf("The Sum of an array is %d ",sum); return 0; }
        ```
 
-
+```
 **OUTPUT**
 ```
 Enter values in array
@@ -69,7 +70,6 @@ Enter numbers in array
 4,6,2,8
 
 Sum of array is 20
-```
 ```
 
 **BUBBLE SORT PROGRAM**
@@ -582,8 +582,8 @@ The average is:3
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1NTEwMjU3MywtNzUwMTI0MzU1LDExNT
-A5NDQyMDAsMjA0MjA4NjkyNiwtMTY4MzMwNDI4NSwxMjQzNDE0
-OTY3LDE5OTAyMDQxNTEsLTE1OTUxODc2MDksLTEzOTk0MDEzMj
-AsNzE3OTQ3NF19
+eyJoaXN0b3J5IjpbLTY1NTIzOTIzLC03NTAxMjQzNTUsMTE1MD
+k0NDIwMCwyMDQyMDg2OTI2LC0xNjgzMzA0Mjg1LDEyNDM0MTQ5
+NjcsMTk5MDIwNDE1MSwtMTU5NTE4NzYwOSwtMTM5OTQwMTMyMC
+w3MTc5NDc0XX0=
 -->
