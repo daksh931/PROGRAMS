@@ -232,14 +232,10 @@ int face()
 
 
 
-puts(" _______________________\n|_______________________|\n|  1  |  2  |  3  |     |
-|_____|_____|_____|_____|
-|  4  |  5  |  6  |  +  |
-|_____|_____|_____|_____|
-|  7  |  8  |  9  |  -  |
-|_____|_____|_____|_____|
-|      0    |     |  *  |
-|___________|_____|_____|
+puts(" |_______________________\n|_______________________|\n|  1  |  2  |  3  |     |\n
+|_____|_____|_____|_____|\n|  4  |  5  |  6  |  +  |\n|_____|_____|_____|_____|\n|  7  |  8  |  9  |  -  |\n
+|_____|_____|_____|_____|\n|      0    |     |  *  |\n
+|___________|_____|_____|\n
 
 
 }
@@ -706,9 +702,9 @@ The average is:3
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTk0NTYzNDYsMTk2NzYyNjMwNSwtMT
-I5NTUxNzkzMSwxNzY0NTk1MzAwLDY5MTExNTU0OCwtNzUwMTI0
-MzU1LDExNTA5NDQyMDAsMjA0MjA4NjkyNiwtMTY4MzMwNDI4NS
-wxMjQzNDE0OTY3LDE5OTAyMDQxNTEsLTE1OTUxODc2MDksLTEz
-OTk0MDEzMjAsNzE3OTQ3NF19
+eyJoaXN0b3J5IjpbNjcxMTk1MDQ2LDE5Njc2MjYzMDUsLTEyOT
+U1MTc5MzEsMTc2NDU5NTMwMCw2OTExMTU1NDgsLTc1MDEyNDM1
+NSwxMTUwOTQ0MjAwLDIwNDIwODY5MjYsLTE2ODMzMDQyODUsMT
+I0MzQxNDk2NywxOTkwMjA0MTUxLC0xNTk1MTg3NjA5LC0xMzk5
+NDAxMzIwLDcxNzk0NzRdfQ==
 -->
