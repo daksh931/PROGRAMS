@@ -66,7 +66,11 @@ return 0;
 ```
 **OUTPUT**
 
-
+59                                                                                                                                               
+number is  prime 59 1921020@computer-centre:~/public_html/1921020$ ./a.out                                                                       
+23                                                                                                                                               
+number is  prime 23                                                                       
+12 
 
 
 
@@ -622,8 +626,8 @@ The average is:3
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzIzMzEyNzUsNjkxMTE1NTQ4LC03NT
-AxMjQzNTUsMTE1MDk0NDIwMCwyMDQyMDg2OTI2LC0xNjgzMzA0
-Mjg1LDEyNDM0MTQ5NjcsMTk5MDIwNDE1MSwtMTU5NTE4NzYwOS
-wtMTM5OTQwMTMyMCw3MTc5NDc0XX0=
+eyJoaXN0b3J5IjpbMTQ0NTQwNzQ4NCw2OTExMTU1NDgsLTc1MD
+EyNDM1NSwxMTUwOTQ0MjAwLDIwNDIwODY5MjYsLTE2ODMzMDQy
+ODUsMTI0MzQxNDk2NywxOTkwMjA0MTUxLC0xNTk1MTg3NjA5LC
+0xMzk5NDAxMzIwLDcxNzk0NzRdfQ==
 -->
