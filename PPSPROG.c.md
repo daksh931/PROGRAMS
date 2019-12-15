@@ -70,6 +70,23 @@ Enter numbers in array
 Sum of array is 20
 
 ```
+1.  `#include  <stdio.h>`
+
+3.  `void bubbleSort(int arrayay[],  int size)`
+4.  `{`
+5.  `for  (int step =  0; step & lt; size -  1;  ++step)`
+6.  `{`
+7.  `// The variable "swapped" is introduced for optimization.`
+8.  `int swapped =  0;`
+9.  `for  (int i =  0; i & lt; size - step -  1;  ++i)`
+10.  `{`
+11.  `// To sort in descending order, change > to < in this line.`
+12.  `if  (arrayay[i]  & gt; arrayay[i +  1])`
+13.  `{`
+14.  `int temp = arrayay[i];`
+15.  `arrayay[i]  = arrayay[i +  1]arrayay[i +  1]  = temp;swapped =  1;`
+`}`
+
 **2  CALCULATOR PROGRAM**
 ```#include<stdio.h>
 
@@ -508,7 +525,7 @@ The average is:3
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0MjA4NjkyNiwtMTY4MzMwNDI4NSwxMj
-QzNDE0OTY3LDE5OTAyMDQxNTEsLTE1OTUxODc2MDksLTEzOTk0
-MDEzMjAsNzE3OTQ3NF19
+eyJoaXN0b3J5IjpbMTE1MDk0NDIwMCwyMDQyMDg2OTI2LC0xNj
+gzMzA0Mjg1LDEyNDM0MTQ5NjcsMTk5MDIwNDE1MSwtMTU5NTE4
+NzYwOSwtMTM5OTQwMTMyMCw3MTc5NDc0XX0=
 -->
