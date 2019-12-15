@@ -152,6 +152,11 @@ Sorted array is...
 8                           
 
 ```
+
+
+
+
+
 **2  CALCULATOR PROGRAM**
 ```
 #include<stdio.h>
@@ -594,8 +599,8 @@ The average is:3
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjkxMTE1NTQ4LC03NTAxMjQzNTUsMTE1MD
-k0NDIwMCwyMDQyMDg2OTI2LC0xNjgzMzA0Mjg1LDEyNDM0MTQ5
-NjcsMTk5MDIwNDE1MSwtMTU5NTE4NzYwOSwtMTM5OTQwMTMyMC
-w3MTc5NDc0XX0=
+eyJoaXN0b3J5IjpbLTcwMjk1MDQxMCw2OTExMTU1NDgsLTc1MD
+EyNDM1NSwxMTUwOTQ0MjAwLDIwNDIwODY5MjYsLTE2ODMzMDQy
+ODUsMTI0MzQxNDk2NywxOTkwMjA0MTUxLC0xNTk1MTg3NjA5LC
+0xMzk5NDAxMzIwLDcxNzk0NzRdfQ==
 -->
