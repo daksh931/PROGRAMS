@@ -73,6 +73,8 @@ Sum of array is 20
 **BUBBLE SORT PROGRAM**
 
 ```
+
+
 void main()
 {
     int array[MAXSIZE];
@@ -155,7 +157,9 @@ puts(" _______________________\n|_______________________|\n|  1  |  2  |  3  | $
 
 
 int main()
-{face();}
+{
+face();
+}
 ```
 
 **OUTPUT**
@@ -576,8 +580,8 @@ The average is:3
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDQ1Njc4NDUsLTc1MDEyNDM1NSwxMT
-UwOTQ0MjAwLDIwNDIwODY5MjYsLTE2ODMzMDQyODUsMTI0MzQx
-NDk2NywxOTkwMjA0MTUxLC0xNTk1MTg3NjA5LC0xMzk5NDAxMz
-IwLDcxNzk0NzRdfQ==
+eyJoaXN0b3J5IjpbLTkzMzc1OTMwNSwtNzUwMTI0MzU1LDExNT
+A5NDQyMDAsMjA0MjA4NjkyNiwtMTY4MzMwNDI4NSwxMjQzNDE0
+OTY3LDE5OTAyMDQxNTEsLTE1OTUxODc2MDksLTEzOTk0MDEzMj
+AsNzE3OTQ3NF19
 -->
