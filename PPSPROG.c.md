@@ -77,10 +77,28 @@ number is not prime 12
 
 ```
 
-REVERS
+**REVERSE OF NUMBER**
+```
+                                                                                                                                                 
+#include <stdio.h>                                                                                                                               
+int main()                                                                                                                                       
+{                                                                                                                                                
+    int n, reversedNumber = 0, remainder;                                                                                                        
+    printf("Enter an integer: ");                                                                                                                
+    scanf("%d", &n);                                                                                                                             
+    while(n != 0)                                                                                                                                
+    {                                                                                                                                            
+        remainder = n%10;                                                                                                                        
+        reversedNumber = reversedNumber*10 + remainder;                                                                                          
+        n /= 10;                                                                                                                                 
+    }                                                                                                                                            
+    printf("Reversed Number = %d", reversedNumber);                                                                                              
+    return 0;                                                                                                                                    
+}                                                                                                                                                
+       
 
-
-**SUM OF ARRAY**
+**SUM OF ARRAY
+**
  ```
  
 
@@ -632,8 +650,8 @@ The average is:3
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTMzMjU0NDMsMTc2NDU5NTMwMCw2OT
-ExMTU1NDgsLTc1MDEyNDM1NSwxMTUwOTQ0MjAwLDIwNDIwODY5
-MjYsLTE2ODMzMDQyODUsMTI0MzQxNDk2NywxOTkwMjA0MTUxLC
-0xNTk1MTg3NjA5LC0xMzk5NDAxMzIwLDcxNzk0NzRdfQ==
+eyJoaXN0b3J5IjpbNzA2NjIyODcwLDE3NjQ1OTUzMDAsNjkxMT
+E1NTQ4LC03NTAxMjQzNTUsMTE1MDk0NDIwMCwyMDQyMDg2OTI2
+LC0xNjgzMzA0Mjg1LDEyNDM0MTQ5NjcsMTk5MDIwNDE1MSwtMT
+U5NTE4NzYwOSwtMTM5OTQwMTMyMCw3MTc5NDc0XX0=
 -->
