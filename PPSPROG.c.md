@@ -42,16 +42,48 @@ Guru Nanak Dev Eng. College
  
 
 
-**FACTORIAL BY RECURSION**
+**PRIME NUMBER**
+```
+                                                                                                                                                 
+#include<stdio.h>                                                                                                                                
+int main()                                                                                                                                       
+{                                                                                                                                                
+                                                                                                                                                 
+int a,b,c;                                                                                                                                       
+scanf("%d",&a);                                                                                                                                  
+                                                                                                                                                 
+for(b=2; b<a; b++)                                                                                                                               
+{                                                                                                                                                
+c=a%b;                                                                                                                                           
+                                                                                                                                                 
+if(c==0)                                                                                                                                         
+{                                                                                                                                                
+printf("number is not prime %d ",a);                                                                                                             
+                                                                                                                                                 
+return 0;                                                                                                                                        
+}                                                                                                                                                
+                                                                                                                                                 
+                                                                                                                                                 
+}                                                                                                                                                
+                                                                                                                                                 
+                                                                                                                                                 
+                                                                                                                                                 
+printf("number is  prime %d ",a);                                                                                                                
+                                                                                                                                                 
+                                                                                                                                                 
+                                                                                                                                                 
+                                                                                                                                                 
+            
 
 
 
 
-
-
+```
 **SUM OF ARRAY**
  ```
  
+
+
   #include <stdio.h>
    int main()
     {
@@ -599,8 +631,8 @@ The average is:3
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwMjk1MDQxMCw2OTExMTU1NDgsLTc1MD
-EyNDM1NSwxMTUwOTQ0MjAwLDIwNDIwODY5MjYsLTE2ODMzMDQy
-ODUsMTI0MzQxNDk2NywxOTkwMjA0MTUxLC0xNTk1MTg3NjA5LC
-0xMzk5NDAxMzIwLDcxNzk0NzRdfQ==
+eyJoaXN0b3J5IjpbLTEwMjA0NDI5MTcsNjkxMTE1NTQ4LC03NT
+AxMjQzNTUsMTE1MDk0NDIwMCwyMDQyMDg2OTI2LC0xNjgzMzA0
+Mjg1LDEyNDM0MTQ5NjcsMTk5MDIwNDE1MSwtMTU5NTE4NzYwOS
+wtMTM5OTQwMTMyMCw3MTc5NDc0XX0=
 -->
