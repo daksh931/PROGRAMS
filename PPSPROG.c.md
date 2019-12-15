@@ -78,7 +78,7 @@ void main()
     int array[MAXSIZE];
     int i, j, num, temp;
  
- printf("Enter the value of num \n");
+ printf("Enter the size \n");
     scanf("%d", &num);
     printf("Enter the elements one by one \n");
     for (i = 0; i < num; i++)
@@ -113,7 +113,29 @@ void main()
 **OUTPUT**
 ```
 
-
+Enter the size                                                                                                                           
+6                                                                                                                                                
+Enter the elements one by one                                                                                                                    
+4                                                                                                                                                
+5                                                                                                                                                
+2                                                                                                                                                
+3                                                                                                                                                
+1                                                                                                                                                
+8                                                                                                                                                
+Input array is                                                                                                                                   
+4                                                                                                                                                
+5                                                                                                                                                
+2                                                                                                                                                
+3                                                                                                                                                
+1                                                                                                                                                
+8                                                                                                                                                
+Sorted array is...                                                                                                                               
+1                                                                                                                                                
+2                                                                                                                                                
+3                                                                                                                                                
+4                                                                                                                                                
+5                                                                                                                                                
+8                           
 
 ```
 **2  CALCULATOR PROGRAM**
@@ -554,8 +576,8 @@ The average is:3
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1MDEyNDM1NSwxMTUwOTQ0MjAwLDIwND
-IwODY5MjYsLTE2ODMzMDQyODUsMTI0MzQxNDk2NywxOTkwMjA0
-MTUxLC0xNTk1MTg3NjA5LC0xMzk5NDAxMzIwLDcxNzk0NzRdfQ
-==
+eyJoaXN0b3J5IjpbLTE0NDQ1Njc4NDUsLTc1MDEyNDM1NSwxMT
+UwOTQ0MjAwLDIwNDIwODY5MjYsLTE2ODMzMDQyODUsMTI0MzQx
+NDk2NywxOTkwMjA0MTUxLC0xNTk1MTg3NjA5LC0xMzk5NDAxMz
+IwLDcxNzk0NzRdfQ==
 -->
