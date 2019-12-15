@@ -404,7 +404,7 @@ int main()
     printf("Enter a positive integer: ");                                                                                                        
     scanf("%d",&n);                                                                                                                              
     m=fact(n);                                                                                                                                   
-    printf("Factorial of %d",m);                                                                                                                 
+    printf("Factorial is %d",m);                                                                                                                 
     return 0;                                                                                                                                    
 }                                                                                                                                                
                                                                                                                                                  
@@ -420,7 +420,13 @@ int fact(int n)
 **OUTPUT**
 
 ```
+ Enter a positive integer: 
+ 5
+ factorial is 120
 
+ Enter a positive integer: 
+ 10
+ factorial is 120
 ```
 
 **8 TABLE OF USER ENTERED NUMBER**
@@ -693,9 +699,9 @@ The average is:3
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk1MTA3ODc5LDE5Njc2MjYzMDUsLTEyOT
-U1MTc5MzEsMTc2NDU5NTMwMCw2OTExMTU1NDgsLTc1MDEyNDM1
-NSwxMTUwOTQ0MjAwLDIwNDIwODY5MjYsLTE2ODMzMDQyODUsMT
-I0MzQxNDk2NywxOTkwMjA0MTUxLC0xNTk1MTg3NjA5LC0xMzk5
-NDAxMzIwLDcxNzk0NzRdfQ==
+eyJoaXN0b3J5IjpbLTEzMzI2ODkyOTAsMTk2NzYyNjMwNSwtMT
+I5NTUxNzkzMSwxNzY0NTk1MzAwLDY5MTExNTU0OCwtNzUwMTI0
+MzU1LDExNTA5NDQyMDAsMjA0MjA4NjkyNiwtMTY4MzMwNDI4NS
+wxMjQzNDE0OTY3LDE5OTAyMDQxNTEsLTE1OTUxODc2MDksLTEz
+OTk0MDEzMjAsNzE3OTQ3NF19
 -->
