@@ -391,6 +391,32 @@ Number is even
 9
 Number is odd
 ```
+**FACTORIAL BY RECURSION**
+
+```
+#include<stdio.h>                                                                                                                                
+ int fact(int n);                                                                                                                                
+                                                                                                                                                 
+                                                                                                                                                 
+int main()                                                                                                                                       
+ {                                                                                                                                               
+    int n,m;                                                                                                                                     
+    printf("Enter a positive integer: ");                                                                                                        
+    scanf("%d",&n);                                                                                                                              
+    m=fact(n);                                                                                                                                   
+    printf("Factorial of %d",m);                                                                                                                 
+    return 0;                                                                                                                                    
+}                                                                                                                                                
+                                                                                                                                                 
+                                                                                                                                                 
+int fact(int n)                                                                                                                                  
+ {                                                                                                                                               
+    if (n>=1)                                                                                                                                    
+        return n*fact(n-1);                                                                                                                      
+    else                                                                                                                                         
+        return 1;                                                                                                                                
+ }   
+```
 
 
 **8 TABLE OF USER ENTERED NUMBER**
@@ -663,9 +689,9 @@ The average is:3
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2NzYyNjMwNSwtMTI5NTUxNzkzMSwxNz
-Y0NTk1MzAwLDY5MTExNTU0OCwtNzUwMTI0MzU1LDExNTA5NDQy
-MDAsMjA0MjA4NjkyNiwtMTY4MzMwNDI4NSwxMjQzNDE0OTY3LD
-E5OTAyMDQxNTEsLTE1OTUxODc2MDksLTEzOTk0MDEzMjAsNzE3
-OTQ3NF19
+eyJoaXN0b3J5IjpbMTY0MTAzOTMzNCwxOTY3NjI2MzA1LC0xMj
+k1NTE3OTMxLDE3NjQ1OTUzMDAsNjkxMTE1NTQ4LC03NTAxMjQz
+NTUsMTE1MDk0NDIwMCwyMDQyMDg2OTI2LC0xNjgzMzA0Mjg1LD
+EyNDM0MTQ5NjcsMTk5MDIwNDE1MSwtMTU5NTE4NzYwOSwtMTM5
+OTQwMTMyMCw3MTc5NDc0XX0=
 -->
