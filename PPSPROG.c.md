@@ -101,22 +101,10 @@ int main()
 **OUTPUT**
 ```
                                                                                                                                                  
-#include <stdio.h>                                                                                                                               
-int main()                                                                                                                                       
-{                                                                                                                                                
-    int n, reversedNumber = 0, remainder;                                                                                                        
-    printf("Enter an integer: ");                                                                                                                
-    scanf("%d", &n);                                                                                                                             
-    while(n != 0)                                                                                                                                
-    {                                                                                                                                            
-        remainder = n%10;                                                                                                                        
-        reversedNumber = reversedNumber*10 + remainder;                                                                                          
-        n /= 10;                                                                                                                                 
-    }                                                                                                                                            
-    printf("Reversed Number = %d", reversedNumber);                                                                                              
-    return 0;                                                                                                                                    
-}                                                                                                                                                
-       
+Enter an integer: 569                                                                                                                            
+Reversed Number = 965                                                 
+Enter an integer: 5479963                                                                                                                        
+Reversed Number = 3699745
 ```
 
 
@@ -674,8 +662,9 @@ The average is:3
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTU1MTc5MzEsMTc2NDU5NTMwMCw2OT
-ExMTU1NDgsLTc1MDEyNDM1NSwxMTUwOTQ0MjAwLDIwNDIwODY5
-MjYsLTE2ODMzMDQyODUsMTI0MzQxNDk2NywxOTkwMjA0MTUxLC
-0xNTk1MTg3NjA5LC0xMzk5NDAxMzIwLDcxNzk0NzRdfQ==
+eyJoaXN0b3J5IjpbODcyMDEwNjAzLC0xMjk1NTE3OTMxLDE3Nj
+Q1OTUzMDAsNjkxMTE1NTQ4LC03NTAxMjQzNTUsMTE1MDk0NDIw
+MCwyMDQyMDg2OTI2LC0xNjgzMzA0Mjg1LDEyNDM0MTQ5NjcsMT
+k5MDIwNDE1MSwtMTU5NTE4NzYwOSwtMTM5OTQwMTMyMCw3MTc5
+NDc0XX0=
 -->
