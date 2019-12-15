@@ -65,14 +65,17 @@ return 0;
 } 
 ```
 **OUTPUT**
-
+```
 59                                                                                                                                               
-number is  prime 59 1921020@computer-centre:~/public_html/1921020$ ./a.out                                                                       
+number is  prime 59 
+                                                                 
 23                                                                                                                                               
 number is  prime 23                                                                       
+
 12 
+number is not prime 12
 
-
+```
 
 **SUM OF ARRAY**
  ```
@@ -626,7 +629,7 @@ The average is:3
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0NTQwNzQ4NCw2OTExMTU1NDgsLTc1MD
+eyJoaXN0b3J5IjpbMTc2NDU5NTMwMCw2OTExMTU1NDgsLTc1MD
 EyNDM1NSwxMTUwOTQ0MjAwLDIwNDIwODY5MjYsLTE2ODMzMDQy
 ODUsMTI0MzQxNDk2NywxOTkwMjA0MTUxLC0xNTk1MTg3NjA5LC
 0xMzk5NDAxMzIwLDcxNzk0NzRdfQ==
