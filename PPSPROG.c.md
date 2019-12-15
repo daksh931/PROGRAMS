@@ -47,11 +47,10 @@ Guru Nanak Dev Eng. College
                                                                                                                                                  
 #include<stdio.h>                                                                                                                                
 int main()                                                                                                                                       
-{                                                                                                                                                
-                                                                                                                                                 
+{  
 int a,b,c;                                                                                                                                       
 scanf("%d",&a);                                                                                                                                  
-                                                                                                                                                 
+
 for(b=2; b<a; b++)                                                                                                                               
 {                                                                                                                                                
 c=a%b;                                                                                                                                           
@@ -60,19 +59,16 @@ if(c==0)
 {                                                                                                                                                
 printf("number is not prime %d ",a);                                                                                                                                                                                                                                                         
 return 0;                                                                                                                                        
-}                                                                                                                                              
+} 
 }
  printf("number is  prime %d ",a);                                                                                                                
-}                                                                                                                                               
-                                                                                                                                                 
-                                                                                                                                                 
-                                                                                                                                                 
-            
-
-
-
-
+} 
 ```
+**OUTPUT**
+
+
+
+
 
 **SUM OF ARRAY**
  ```
@@ -626,8 +622,8 @@ The average is:3
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTAwMDkzNzA4LDY5MTExNTU0OCwtNzUwMT
-I0MzU1LDExNTA5NDQyMDAsMjA0MjA4NjkyNiwtMTY4MzMwNDI4
-NSwxMjQzNDE0OTY3LDE5OTAyMDQxNTEsLTE1OTUxODc2MDksLT
-EzOTk0MDEzMjAsNzE3OTQ3NF19
+eyJoaXN0b3J5IjpbLTIxMzIzMzEyNzUsNjkxMTE1NTQ4LC03NT
+AxMjQzNTUsMTE1MDk0NDIwMCwyMDQyMDg2OTI2LC0xNjgzMzA0
+Mjg1LDEyNDM0MTQ5NjcsMTk5MDIwNDE1MSwtMTU5NTE4NzYwOS
+wtMTM5OTQwMTMyMCw3MTc5NDc0XX0=
 -->
